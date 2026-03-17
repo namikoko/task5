@@ -1,1 +1,14 @@
 # task5
+
+Review 01 : https://norahwilcox.github.io/CART263/projects/project-1/Project1/
+Norah's website is an interactive photobooth, that is very reminiscent of the internet in the 2010's. She decided 
+to use quite a retro UI, like an old Windows Desktop.It' svery minimal which allows for the user to focus on the main feature : the photobooth. 
+The website has a multi step flow very similar to when you use
+an actual photobooth. There are  amultitudes of filters which, is very cool allowing for various styles of Photos. 
+The project feels very complete and the navigation is very to the point. I was surprised by the use of the webcam, the wide and the wide range of photo filters on webcam. Another part that stoo out to me was that the code used a mirrored canvas draw, which manually mirrors  the camera on the webcam. This makes the application behave like a selfie and not the flipped photo effect we normally experience on webcam. Overall an amazing project.
+
+Review 02 : https://github.com/sleepyrayray/project-1?tab=readme-ov-file
+The project data chase 1 is a Pacman inspired maze game that was quite intriguing at first. The user has to catch all of the lost objects without getting caught by police to win. its quite an interesting concept. I would have wished that the rules would have been written in the game before it starts, rather than be explained in the reposotory. Moreso, I find the game quite long and not challenging, as the opponent (being the policeman) does not move at all. The game cannot be played as a single player which is unfortunate, I wish there could be some type of movement allowing for everyone to be able to play. Lastyly I wondered why the maze was so small compared to the actual screen of the computer. Code wise, the use of random() and noise() make the project unique. the randomness plays with the logic of the game which is quite cool. Overall I could not have a full experience of the project as I had no one to play with, but it was an interesting project for sure. 
+
+Review 03: https://lazer6769.github.io/Cart-263/Topics/Project_sand/
+Project Sand is very creative. I love the way the sad can falls, moves, the colour choices its genuinely beautiful. I love the the drawing you create is customizable. The only gripes I had were that I did not understand how to participate, therefore I wish the rules could have been written, as I played with the sliders and nothing happened. Perhaps the user could be prompted that they have to click on the screen. Moreso, UI wise, I would have made the sketching area bigger. The sliders are quite small, therefore, I think, the sketching area could've taken the hold screen and added the sliders to the top corner, allowing for the art to be more seen. I like how the code uses the entire screen as a grid of states to really create a sand like texture which is very appearant and well made. Overall a great project !
